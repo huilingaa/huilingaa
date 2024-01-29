@@ -1,14 +1,3 @@
-### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=huilingaa&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
-
-### 👨‍🚒 About me
-
-- 🔭 I’m currently working on null.
-- 💬 Experience and sharing: [`前端回忆录`]().
-- ⚡ Fun fact: You would call me ✨ Hui Ling ✨.
-- 📫 How to reach me: wx = `15608626760`.
-
-### 🔥 Project
 
 
 
@@ -24,7 +13,7 @@
 
 ### Hi there, I am hu huiling 👋
 
-> A Front end developer from **HangZhou, China**.
+> A Front end developer from **ShenZhen, China**.
 
 ### 🏗️ Learning:
 
@@ -34,13 +23,24 @@
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
+### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=huilingaa&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 👨‍🚒 About me
+
+- 🔭 I’m currently working on null.
+- 💬 Experience and sharing: [`前端回忆录`]().
+- ⚡ Fun fact: You would call me ✨ Hui Ling ✨.
+- 📫 How to reach me: wx = `15608626760`.
+
+### 🔥 Project
 
 
 ## 求职求职求职！杭州上海求内推！联系方式在上面 👆
 
 ### 🏠 Blog:
 
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+
 
 ### 📊 Stats:
 
