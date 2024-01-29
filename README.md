@@ -9,7 +9,6 @@
  -->
 
 
- <p align="center"><img width="100%" src="./assets/header.png" /></p>
 
 ### Hi there, I am hu huiling 👋
 
