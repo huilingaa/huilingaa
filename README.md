@@ -22,7 +22,7 @@
 
  <p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-### Hi there, I am Li Jianan👋
+### Hi there, I am hu huiling 👋
 
 > A Front end developer from **HangZhou, China**.
 
@@ -34,12 +34,7 @@
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
-### 📫 Reach me:
 
-- **QQ** : 574980606
-- **WeChat** : 19941208872
-- **Phone** : 19941208872
-- **E-mail** : 574980606@qq.com
 
 ## 求职求职求职！杭州上海求内推！联系方式在上面 👆
 
@@ -54,5 +49,4 @@
 
 ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
 
