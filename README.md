@@ -36,7 +36,6 @@
 ### 🔥 Project
 
 
-## 求职求职求职！杭州上海求内推！联系方式在上面 👆
 
 ### 🏠 Blog:
 
@@ -44,9 +43,9 @@
 
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📈 Activity Graph:
 
+## 求职求职求职！杭州深圳求内推！联系方式在上面 👆
 
